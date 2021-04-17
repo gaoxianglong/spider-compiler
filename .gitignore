@@ -5,6 +5,8 @@
 *.iml
 *.class
 
+/taget
+
 # Log file
 *.log
 
